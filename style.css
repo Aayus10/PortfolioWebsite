@@ -1,0 +1,144 @@
+.navbar-brand{
+    color: midnightblue;
+    font-size: larger;
+}
+
+body{
+    background-color: #202123;
+}
+    
+.cr{
+    
+    font-size: large;
+    font-weight: bold;
+    margin-left: 40%;
+}
+.container1
+{
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    width: fit-content;
+    margin-top: 25px;
+    border-color: black;
+    padding: auto;
+    border-style:  groove;
+    font-size: medium;
+    font-weight: 600;
+    
+    /* background-color: lightsteelblue; */
+    display: block;
+    
+}
+
+img{
+    border-radius: 185px;
+    border-color: black;
+    border-width: 2px;
+    border-style: groove;
+    
+}
+
+.image{
+    padding-left: 130px;
+    padding-top: 30px
+    ;
+    
+    height: fit-content;
+    width: fit-content;
+    
+
+   
+    
+}
+.intro{
+    color:black;
+    
+    margin-left: 0px;
+    padding-top: 35px;
+    font-size: 25px;
+    font-weight: 550;
+    
+    font-family: Arial, Helvetica, sans-serif
+    
+    
+
+}
+
+
+.intro2{
+    margin-top: 12px;
+    color:midnightblue;
+    font-size: 20px;
+    
+    margin-left: 35%;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+
+
+.interesth{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: lightgreen;
+    width: fit-content;
+    padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list{
+    border-style: groove;
+    background-color: lightgreen;
+    border-width: 5px;
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.chead{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: lightgreen;
+    width: fit-content;
+    padding: 7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.social-icons{
+    border-style: groove;
+    background-color: lightgreen;
+    border-width: 5px;
+    margin-left: 30px;
+    font-size: 26px;
+    font-weight: bold;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+
+.navbar-brand{
+    color: blue;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+.quote{
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+li.nav-item{
+    font-size: x-large;
+    margin-left: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkblue;
+}
